@@ -1,0 +1,10 @@
+The columns for each CSV file are described below:
+
+Input Headers:
+id, tx_id, output_id
+
+Output Headers:
+id, tx_id, pk_id, value
+
+Transaction Headers:
+id, block_id, is_coinbase
